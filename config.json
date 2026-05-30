@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifysonnect",
+        "uuid": 1668678,
+        "checksum": "eyvnd"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
